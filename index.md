@@ -1,1 +1,2 @@
-## 想説髒話
+## 《深度学习与计算机视觉》(https://github.com/frombeijingwithlove/dlcv_for_beginners)  
+## To be updated ...
